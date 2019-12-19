@@ -1,5 +1,8 @@
 # RecipeBook
 
+This project was created using tutotial:
+https://www.youtube.com/watch?v=ElbPIhPNp_s&t=665s
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
 
 ## Development server
